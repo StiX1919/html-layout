@@ -1,0 +1,44 @@
+body {
+    margin:0
+}
+
+header {
+    background: lightgray;
+    height: 100px;
+    width: auto;
+    padding: 10px;
+
+}
+#logo {
+    background: deepskyblue;
+    height:100%;
+    width: 100px;
+    margin: 0px 20px;
+
+}
+h1 {
+    margin: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200
+
+}
+#blue {
+    background: royalblue;
+    height: 120px;
+    width: auto;
+}
+#turq {
+    background: darkturquoise;
+    height: 120px;
+    width: auto;
+}
+#green {
+    background: greenyellow;
+    height: 120px;
+    width: auto;
+}
+footer {
+    background: yellow;
+    height: 120px;
+    width: auto;
+}
