@@ -1,44 +1,45 @@
-body {
-    margin:0
-}
-
-header {
-    background: lightgray;
-    height: 100px;
-    width: auto;
-    padding: 10px;
-
-}
-#logo {
-    background: deepskyblue;
-    height:100%;
-    width: 100px;
-    margin: 0px 20px;
-
-}
-h1 {
-    margin: 70px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 200
-
-}
-#blue {
-    background: royalblue;
-    height: 120px;
-    width: auto;
-}
-#turq {
-    background: darkturquoise;
-    height: 120px;
-    width: auto;
-}
-#green {
-    background: greenyellow;
-    height: 120px;
-    width: auto;
-}
-footer {
-    background: yellow;
-    height: 120px;
-    width: auto;
-}
+#white{
+    width: 100%;
+    height: 250px;
+    background-color: whitesmoke;
+    }
+    
+    .top{  
+        width: 100%;
+        height: 100px;
+        background-color: lightgrey;
+    }
+    #box{
+     position: absolute;
+     background-color: skyblue;
+     height: 75px;
+     width: 75px;
+     margin: 12.5px;
+    }
+    #blue{
+        width: 100%;
+        height: 150px;
+        background-color: skyblue;
+    }
+    #teal{
+        width: 100%;
+        height: 150px;
+        background-color: aquamarine;
+    }
+    #green{
+        width: 100%;
+        height: 150px;
+        background-color: greenyellow;
+    }
+    #yellow{
+        width: 100%;
+        height: 150px;
+        background-color: yellow;
+    }
+    
+    #p{
+        margin: 0px;
+        padding: 50px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: gray
+    }
